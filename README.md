@@ -11,7 +11,8 @@ Project asal penulis menggunakan OLED, dalam project ini saya menggunakan I2C LC
 <img src="https://github.com/mzakiab/APRS-DECODER-20X4-LCD/blob/main/IMG_20230130_172222.jpg">
 <img src="https://github.com/mzakiab/APRS-DECODER-20X4-LCD/blob/main/IMG_20230130_172703.jpg">
 <img src="https://github.com/mzakiab/APRS-DECODER-20X4-LCD/blob/main/circuit.jpeg">
-Penulis asal mengunakan Arduino Pro board, tetapi dalam project ini saya guna Arduino NANO
+  <p>
+    Penulis asal mengunakan <i>Arduino Pro board</i>, tetapi dalam project ini saya guna <i>Arduino NANO</i>.
 <p>
 Bahan-bahan yang diperlukan:-
   <br>
