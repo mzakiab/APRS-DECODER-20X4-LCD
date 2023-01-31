@@ -4,7 +4,7 @@ Decode and display APRS signal at 20x4 LCD
 <B>Thanks https://github.com/chokelive/aprs_tnc</B>
 
 Monitor APRS Signal at 144.390MHz and display the data via I2C 20x4 LCD display. 
-Project asal penulis menggunakan OLED, dalam project ini saya menggunakan I2C LCD Display.
+Project asal penulis menggunakan OLED, dalam project ini saya menggunakan 20x4 I2C LCD Display.
 <p>
 <img src="https://github.com/mzakiab/APRS-DECODER-20X4-LCD/blob/main/IMG_20230130_163335.jpg">
 <img src="https://github.com/mzakiab/APRS-DECODER-20X4-LCD/blob/main/IMG_20230130_171918.jpg">
