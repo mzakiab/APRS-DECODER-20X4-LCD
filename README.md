@@ -1,5 +1,6 @@
 # APRS-DECODER-20X4-LCD
 Decode and display APRS signal at 20x4 LCD
+<p>
 <B>Thanks https://github.com/chokelive/aprs_tnc</B>
 
 Monitor APRS Signal at 144.390MHz and display the data via I2C 20x4 LCD display. 
